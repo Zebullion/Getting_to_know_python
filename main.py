@@ -2,6 +2,7 @@ from turtle import Turtle, Screen
 #make turtle and screen
 t = Turtle() 
 s = Screen()
+# draw square
 def square():
   for x in range(4):
   t.forward(40)
